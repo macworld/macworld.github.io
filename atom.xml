@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://macworld.github.io/atom.xml" rel="self"/>
+  <link href="http://macworld.github.io/"/>
+  <updated>2013-08-07T18:09:25+08:00</updated>
+  <id>http://macworld.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    <email><![CDATA[lwh.scu@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://macworld.github.io/blog/2013/08/07/test/"/>
+    <updated>2013-08-07T17:14:00+08:00</updated>
+    <id>http://macworld.github.io/blog/2013/08/07/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
